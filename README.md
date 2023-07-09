@@ -1,4 +1,4 @@
-### Hi there 👋
+I wanna be edgy too - so I'll leave this empty as all the cool kids do.
 
 <!--
 **nonchris/nonchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
