@@ -1,4 +1,14 @@
-I wanna be edgy too - so I'll leave this empty as all the cool kids do.
+Work I am/ was part of that are not or only partially reflected on GitHub.:  
+### Wachmann
+Research area: Data protection compliant solutions for device tracking via wifi.  
+Goal: Intrusion detection.  
+Tasks: Research and Programming (localization systems & central node receiving and processing measurements)  
+https://itsec.cs.uni-bonn.de/wachmann/ (late 2021 - early 2024)
+
+### WASP.systems
+Research area: Detecting and patching vulnerabilities in open source software.  
+Tasks: One of the core developers of our Cyber Reasoning System (CRS), w/ focus to Agent & Tool Development.
+https://wasp.systems/ (early 2024 - today)
 
 <!--
 **nonchris/nonchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
