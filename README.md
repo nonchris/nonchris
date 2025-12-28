@@ -1,3 +1,5 @@
+<-- this picture is old (late 2022), but i dont a better one that is github worthy~
+
 Work I am/ was part of that are not or only partially reflected on GitHub.:  
 ### Wachmann
 Research area: Data protection compliant solutions for device tracking via wifi.  
