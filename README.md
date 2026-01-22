@@ -10,7 +10,7 @@ https://itsec.cs.uni-bonn.de/wachmann/ (late 2021 - early 2024)
 ### WASP.systems
 Research area: Detecting and patching vulnerabilities in open source software.  
 Tasks: One of the core developers of [Wespenstock](https://github.com/WASP-SYSTEMS/wespenstock) our Cyber Reasoning System (CRS), w/ focus to Agent & Tool Development.  
-https://wasp.systems/ (early 2024 - today)
+[WASP.system](https://wasp.systems/) (early 2024 - today)
 
 <!--
 **nonchris/nonchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
